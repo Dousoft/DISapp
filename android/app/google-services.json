@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031280782935",
+    "project_id": "isd-india",
+    "storage_bucket": "isd-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031280782935:android:c081b557a6c4c876c03d12",
+        "android_client_info": {
+          "package_name": "com.sunil.isd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031280782935-idbh28slu95n4mcd85b5divg0i85h1k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunil.isd",
+            "certificate_hash": "f52fc0a216382cf967f7abec24bde67ad8bdfd3e"
+          }
+        },
+        {
+          "client_id": "1031280782935-c6ft0tcfqt18m6imhl6ggekiaaa09ohn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriGAGsXEkFvpMOta3ee8KFVVnXOP4FCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031280782935-c6ft0tcfqt18m6imhl6ggekiaaa09ohn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
